@@ -7,7 +7,7 @@ A browser-based investigation tool for tracking prediction market activity by wa
 
 ## The Problem
 
-Prediction market transactions involve protocol-specific data that standard blockchain explorers don't surface clearly. Positions, trades, settlements, and redemptions all live within Polymarket's own data model — and when a user reports a missing position or unexpected outcome, you need to see their full activity history within the protocol to understand what happened.
+Prediction market transactions involve protocol-specific data that standard blockchain explorers don't surface clearly. Positions, trades, settlements, and redemptions all live within Polymarket's own data model. When a user reports a missing position or unexpected outcome, you need to see their full activity history within the protocol to understand what happened.
 
 
 ---
@@ -25,9 +25,9 @@ Prediction market transactions involve protocol-specific data that standard bloc
 
 ## Stack
 
-- **JavaScript** — core logic and API integration
-- **HTML / CSS** — frontend interface
-- **Polymarket API** — prediction market data source
+- **JavaScript**: core logic and API integration
+- **HTML / CSS**: frontend interface
+- **Polymarket API**: prediction market data source
 
 
 ---
